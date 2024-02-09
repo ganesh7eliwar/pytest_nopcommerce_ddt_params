@@ -1,0 +1,41 @@
+INFO     Test_login_ddt:test_user_login_ddt.py:22 Testcase 'test_user_login_ddt' has Started
+INFO     Test_login_ddt:test_user_login_ddt.py:24 Opening the Browser
+INFO     Test_login_ddt:test_user_login_ddt.py:38 Entering Email -->admin@yourstore.com
+INFO     Test_login_ddt:test_user_login_ddt.py:40 Entering Password -->admin
+INFO     Test_login_ddt:test_user_login_ddt.py:42 Clicking on Login Button
+INFO     Test_login_ddt:test_user_login_ddt.py:46 Login Successful
+INFO     Test_login_ddt:test_user_login_ddt.py:47 Entered into 'outer if block'
+INFO     Test_login_ddt:test_user_login_ddt.py:49 Entered into 'inner if block' of 'outer if block' -->pass
+INFO     Test_login_ddt:test_user_login_ddt.py:50 Appending the list
+INFO     Test_login_ddt:test_user_login_ddt.py:52 Capturing Screenshot for Allure Report
+INFO     Test_login_ddt:test_user_login_ddt.py:55 Clicking on logout Button
+INFO     Test_login_ddt:test_user_login_ddt.py:76 Printing the list
+INFO     Test_login_ddt:test_user_login_ddt.py:38 Entering Email -->admin@yourstore.com
+INFO     Test_login_ddt:test_user_login_ddt.py:40 Entering Password -->admin1
+INFO     Test_login_ddt:test_user_login_ddt.py:42 Clicking on Login Button
+INFO     Test_login_ddt:test_user_login_ddt.py:63 Login Unsuccessful
+INFO     Test_login_ddt:test_user_login_ddt.py:64 Entered into 'outer elif' block
+INFO     Test_login_ddt:test_user_login_ddt.py:66 Entered into 'inner if block' of 'outer elif block' -->fail
+INFO     Test_login_ddt:test_user_login_ddt.py:67 Appending the list
+INFO     Test_login_ddt:test_user_login_ddt.py:69 Capturing Screenshot for Allure Report
+INFO     Test_login_ddt:test_user_login_ddt.py:76 Printing the list
+INFO     Test_login_ddt:test_user_login_ddt.py:38 Entering Email -->admin@yourstore.com1
+INFO     Test_login_ddt:test_user_login_ddt.py:40 Entering Password -->admin
+INFO     Test_login_ddt:test_user_login_ddt.py:42 Clicking on Login Button
+INFO     Test_login_ddt:test_user_login_ddt.py:63 Login Unsuccessful
+INFO     Test_login_ddt:test_user_login_ddt.py:64 Entered into 'outer elif' block
+INFO     Test_login_ddt:test_user_login_ddt.py:66 Entered into 'inner if block' of 'outer elif block' -->fail
+INFO     Test_login_ddt:test_user_login_ddt.py:67 Appending the list
+INFO     Test_login_ddt:test_user_login_ddt.py:69 Capturing Screenshot for Allure Report
+INFO     Test_login_ddt:test_user_login_ddt.py:76 Printing the list
+INFO     Test_login_ddt:test_user_login_ddt.py:38 Entering Email -->admin@yourstore.com1
+INFO     Test_login_ddt:test_user_login_ddt.py:40 Entering Password -->admi1n
+INFO     Test_login_ddt:test_user_login_ddt.py:42 Clicking on Login Button
+INFO     Test_login_ddt:test_user_login_ddt.py:63 Login Unsuccessful
+INFO     Test_login_ddt:test_user_login_ddt.py:64 Entered into 'outer elif' block
+INFO     Test_login_ddt:test_user_login_ddt.py:66 Entered into 'inner if block' of 'outer elif block' -->fail
+INFO     Test_login_ddt:test_user_login_ddt.py:67 Appending the list
+INFO     Test_login_ddt:test_user_login_ddt.py:69 Capturing Screenshot for Allure Report
+INFO     Test_login_ddt:test_user_login_ddt.py:76 Printing the list
+INFO     Test_login_ddt:test_user_login_ddt.py:82 Testcase 'test_user_login_ddt' has Passed
+INFO     Test_login_ddt:test_user_login_ddt.py:84 Testcase 'test_user_login_ddt' has Completed

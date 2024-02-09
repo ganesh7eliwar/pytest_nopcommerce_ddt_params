@@ -1,0 +1,5 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"","Login Through Params","validating login with multiple parameters","0","0","4","0","0"
+"","Adding a New Customer By Reading Data and Writing it in excel","validating add customer page","0","0","1","0","0"
+"","Login Through DDT","validating login with ddt","0","1","0","0","0"
+"","Adding A New Customer By Reading Data from excel","validating add customer page","0","0","1","0","0"

@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Feb 09 12:45:34 IST 2024","Fri Feb 09 12:45:47 IST 2024","13009","test_cases","test_user_login_params","Test_user_login","","","Test_User_Login_Params","testing_login_functionality"
+"passed","Fri Feb 09 12:45:36 IST 2024","Fri Feb 09 12:46:09 IST 2024","32920","test_cases","test_add_customer_read_write_data","Test_add_customer","","","Add_Customer_Read_Write_Data","testing_add_customer_page"
+"passed","Fri Feb 09 12:45:39 IST 2024","Fri Feb 09 12:45:55 IST 2024","15220","test_cases","test_user_login_params","Test_user_login","","","Test_User_Login_Params","testing_login_functionality"
+"passed","Fri Feb 09 12:45:35 IST 2024","Fri Feb 09 12:45:54 IST 2024","18748","test_cases","test_user_login_params","Test_user_login","","","Test_User_Login_Params","testing_login_functionality"
+"passed","Fri Feb 09 12:45:36 IST 2024","Fri Feb 09 12:45:50 IST 2024","14117","test_cases","test_user_login_params","Test_user_login","","","Test_User_Login_Params","testing_login_functionality"
+"broken","Fri Feb 09 12:45:36 IST 2024","Fri Feb 09 12:45:53 IST 2024","17337","test_cases","test_user_login_ddt","Test_login_ddt","","","Test_User_Login_DDT","testing_login_functionality"
+"passed","Fri Feb 09 12:45:34 IST 2024","Fri Feb 09 12:46:06 IST 2024","31715","test_cases","test_add_customer_read_data","Test_add_customer","","","Test_Add_Customer_Read_Data","testing_add_customer_page"

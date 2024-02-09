@@ -1,0 +1,14 @@
+INFO     Test_user_login:test_user_login_params.py:19 Testcase 'test_login_with_params' Started
+INFO     Test_user_login:test_user_login_params.py:20 Opening the Browser
+INFO     Test_user_login:test_user_login_params.py:22 Assigning Variable to Login Page
+INFO     Test_user_login:test_user_login_params.py:24 Entering Email from Params -->admin@yourstore.com
+INFO     Test_user_login:test_user_login_params.py:26 Entering Password from Params -->admin1
+INFO     Test_user_login:test_user_login_params.py:28 Clicking on Login Button
+INFO     Test_user_login:test_user_login_params.py:45 Login Unsuccessful
+INFO     Test_user_login:test_user_login_params.py:46 Entered into 'outer elif' block
+INFO     Test_user_login:test_user_login_params.py:48 Entered into 'inner if block' of 'outer elif block' -->fail
+INFO     Test_user_login:test_user_login_params.py:49 Appending the list
+INFO     Test_user_login:test_user_login_params.py:55 Printing the list
+INFO     Test_user_login:test_user_login_params.py:58 Testcase 'test_login_with_params' has Passed
+INFO     Test_user_login:test_user_login_params.py:59 Capturing Screenshot for Allure Report
+INFO     Test_user_login:test_user_login_params.py:69 Testcase 'test_login_with_params' has Completed

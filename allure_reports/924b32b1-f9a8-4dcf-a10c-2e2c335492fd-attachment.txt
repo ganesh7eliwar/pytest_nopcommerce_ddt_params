@@ -1,0 +1,32 @@
+INFO     Test_add_customer:test_add_customer_read_data.py:40 Testcase test_add_customer_003 Started
+INFO     Test_add_customer:test_add_customer_read_data.py:41 Opening the Browser
+INFO     Test_add_customer:test_add_customer_read_data.py:43 Assigning Variable to Login_page
+INFO     Test_add_customer:test_add_customer_read_data.py:45 Assigning Variable to Add_customer_page
+INFO     Test_add_customer:test_add_customer_read_data.py:47 Entering Email -->admin@yourstore.com
+INFO     Test_add_customer:test_add_customer_read_data.py:49 Entering Password -->admin
+INFO     Test_add_customer:test_add_customer_read_data.py:51 Clicking Login Button
+INFO     Test_add_customer:test_add_customer_read_data.py:54 Login Successful
+INFO     Test_add_customer:test_add_customer_read_data.py:55 Clicking 1st Customers Button
+INFO     Test_add_customer:test_add_customer_read_data.py:57 Clicking 2nd Customers Button
+INFO     Test_add_customer:test_add_customer_read_data.py:59 Clicking on Add Customer Button
+INFO     Test_add_customer:test_add_customer_read_data.py:62 Landed on Add New Customer Page
+INFO     Test_add_customer:test_add_customer_read_data.py:64 Entering Customer Email -->dwrxwbc@outlook.com
+INFO     Test_add_customer:test_add_customer_read_data.py:67 Entering Password -->zeux%6018
+INFO     Test_add_customer:test_add_customer_read_data.py:69 Entering First_name -->Credence
+INFO     Test_add_customer:test_add_customer_read_data.py:71 Entering Last_name -->Automation
+INFO     Test_add_customer:test_add_customer_read_data.py:73 Selecting Gender -->male
+INFO     Test_add_customer:test_add_customer_read_data.py:75 Entering Date of Birth -->1992-10-02 00:00:00
+INFO     Test_add_customer:test_add_customer_read_data.py:77 Entering Company Name -->Credence IT Professionals Training Institute
+INFO     Test_add_customer:test_add_customer_read_data.py:79 Clicking on Tax Button -->uncheck
+INFO     Test_add_customer:test_add_customer_read_data.py:81 Clicking on News Letter Button
+INFO     Test_add_customer:test_add_customer_read_data.py:83 Selecting option in News Letter
+INFO     Test_add_customer:test_add_customer_read_data.py:85 Clicking on Customer Roles
+INFO     Test_add_customer:test_add_customer_read_data.py:87 Selecting Option in Customer Roles
+INFO     Test_add_customer:test_add_customer_read_data.py:89 Selecting Manager of Vendor -->Vendor 1
+INFO     Test_add_customer:test_add_customer_read_data.py:91 Clicking on Active Button Check Box -->Uncheck
+INFO     Test_add_customer:test_add_customer_read_data.py:93 Writing the Comment -->Automation is "Awesome".
+INFO     Test_add_customer:test_add_customer_read_data.py:95 Clicking on Save Button
+INFO     Test_add_customer:test_add_customer_read_data.py:98 Customer Added Successfully
+INFO     Test_add_customer:test_add_customer_read_data.py:99 Screenshot Captured Testcase 'test_add_customer_read_data' Passed
+INFO     Test_add_customer:test_add_customer_read_data.py:103 Clicking on Logout Button
+INFO     Test_add_customer:test_add_customer_read_data.py:105 'test_add_customer_read_data' Completed
